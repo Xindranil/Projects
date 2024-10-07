@@ -1,1 +1,2 @@
-I am going to showcase my projects here soon ......
+[![portfolio]]([https://katherineoelsner.com/](https://github.com/Xindranil/Projects/tree/main/ExoplanetHub))
+
