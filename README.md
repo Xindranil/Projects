@@ -16,11 +16,15 @@ I'm always excited to explore new opportunities and connect with like-minded ind
 
 ## Projects
 
-### Exoplanet Hub
+### Exoplanet Hub ( NASA SpaceApps 2024 )
 - **Description**: An Educational and interactive site to teach kids about exoplanets.
 - **Technologies Used**: Simple html with smart embeds.
 - **Link**: [ExoplanetHub](https://github.com/Xindranil/Projects/tree/main/ExoplanetHub) | [Live Demo](https://xindranil.github.io/ExoplanetHub)
 
+### Marsists ( NASA SpaceApps 2022 )
+- **Description**: Designed modular system and models for Martian regolith 3D-printed habitat and utilities.
+- **Technologies Used**: Simple html with smart embeds.
+- **Link**:  | [Live Demo](https://sites.google.com/view/marsists)
 
 ---
 
