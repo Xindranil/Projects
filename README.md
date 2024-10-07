@@ -23,7 +23,7 @@ I'm always excited to explore new opportunities and connect with like-minded ind
 
 ### Project Marsists ( NASA SpaceApps 2022 )
 - **Description**: Designed modular system and models for Martian regolith 3D-printed habitat and utilities.
-- **Technologies Used**: Simple html with smart embeds.
+- **Technologies Used**: CAD , html
 - **Link**: [Project Marsists](https://sites.google.com/view/marsists) | [Live Demo](https://sites.google.com/view/marsists) | [SpaceApps Project](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/exoknow/?tab=project)
 
 ---
