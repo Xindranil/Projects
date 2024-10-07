@@ -19,7 +19,7 @@ I'm always excited to explore new opportunities and connect with like-minded ind
 ### Exoplanet Hub
 - **Description**: An Educational and interactive site to teach kids about exoplanets.
 - **Technologies Used**: Simple html with smart embeds.
-- **Link**: [GitHub Repository](https://github.com/yourprojectlink) | [Live Demo](https://xindranil.github.io/ExoplanetHub)
+- **Link**: [ExoplanetHub](https://github.com/yourprojectlink) | [Live Demo](https://xindranil.github.io/ExoplanetHub)
 
 
 ---
