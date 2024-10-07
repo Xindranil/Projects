@@ -4,9 +4,13 @@
 
 </div>
 
+<div align="justify">
+
 Hi! I'm an **entrepreneur** who believes that technology can solve some of the world's most pressing problems. I collaborate with tech experts to execute my ideas and bring visions to life. My passions are in **Space Exploration**, but my skillset spans across **entrepreneurship**, **business development**, **strategy**, **management**, **operations**, **problem solving**, and **design thinking**.
 
 I'm always excited to explore new opportunities and connect with like-minded individuals. Let's create something impactful together!
+
+</div>
 
 ---
 <div align="center">
