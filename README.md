@@ -17,7 +17,7 @@ I'm always excited to explore new opportunities and connect with like-minded ind
 ## Projects
 
 ### Exoplanet Hub ( NASA SpaceApps 2024 )
-- **Description**: An Educational and interactive site to teach kids about exoplanets.
+- **Description**: An Educational and interactive site to teach kids about exoplanets, includes NASA exoplanets map.
 - **Technologies Used**: Simple html with smart embeds.
 - **Link**: [ExoplanetHub](https://github.com/Xindranil/Projects/tree/main/ExoplanetHub) | [Live Demo](https://xindranil.github.io/ExoplanetHub)
 
