@@ -1,0 +1,104 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "Hello",
+          "Good morning",
+          "Good afternoon"
+        ],
+        "responses": [
+          "Hello! How can I assist you in your self-development journey today?",
+          "Hi there! How can I help you with your self-growth?",
+          "Hey! What self-improvement topic would you like to discuss today?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Bye",
+          "See you later",
+          "Goodbye",
+          "Talk to you later"
+        ],
+        "responses": [
+          "Goodbye! Remember, self-development is a continuous journey. Take care!",
+          "See you later! Keep pushing towards your goals!",
+          "Bye! Don't forget to apply what you've learned today!"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "Thanks",
+          "Thank you",
+          "I appreciate it",
+          "Thanks a lot"
+        ],
+        "responses": [
+          "You're welcome! I'm here to help anytime.",
+          "No problem! Glad I could assist.",
+          "You're welcome! Keep striving for excellence."
+        ]
+      },
+      {
+        "tag": "self_development_books",
+        "patterns": [
+          "Can you recommend some self-development books?",
+          "What are some good books for self-improvement?",
+          "Suggest some books for personal growth",
+          "Any book recommendations for self-help?"
+        ],
+        "responses": [
+          "Sure! Some great self-development books are 'Atomic Habits' by James Clear, 'The Power of Now' by Eckhart Tolle, and 'Mindset' by Carol Dweck.",
+          "I recommend 'The 7 Habits of Highly Effective People' by Stephen Covey, 'How to Win Friends and Influence People' by Dale Carnegie, and 'Grit' by Angela Duckworth.",
+          "'Awaken the Giant Within' by Tony Robbins, 'The Subtle Art of Not Giving a F*ck' by Mark Manson, and 'Think and Grow Rich' by Napoleon Hill are also excellent choices."
+        ]
+      },
+      {
+        "tag": "goal_setting",
+        "patterns": [
+          "How can I set effective goals?",
+          "Tips for goal setting",
+          "How do I set and achieve my goals?",
+          "What is the best way to set goals?"
+        ],
+        "responses": [
+          "Setting effective goals involves making them SMART: Specific, Measurable, Achievable, Relevant, and Time-bound. Start by defining clear and precise objectives.",
+          "Break your goals down into smaller, manageable tasks and set deadlines for each. This helps maintain motivation and track progress.",
+          "Regularly review and adjust your goals as needed. Celebrate small achievements along the way to stay motivated."
+        ]
+      },
+      {
+        "tag": "overcoming_procrastination",
+        "patterns": [
+          "How do I overcome procrastination?",
+          "Tips to stop procrastinating",
+          "Why do I procrastinate and how can I stop?",
+          "How can I be more productive?"
+        ],
+        "responses": [
+          "To overcome procrastination, start by breaking tasks into smaller, more manageable steps. This makes them feel less overwhelming.",
+          "Eliminate distractions and create a conducive work environment. Set specific time blocks for work and rest.",
+          "Use techniques like the Pomodoro Technique, where you work for 25 minutes and then take a 5-minute break. Also, identify the reasons for your procrastination and address them directly."
+        ]
+      },
+      {
+        "tag": "mindfulness",
+        "patterns": [
+          "What is mindfulness?",
+          "How can I practice mindfulness?",
+          "Benefits of mindfulness",
+          "Teach me about mindfulness"
+        ],
+        "responses": [
+          "Mindfulness is the practice of being present and fully engaged in the current moment, without judgment. It helps reduce stress and increase focus.",
+          "To practice mindfulness, start with simple breathing exercises. Focus on your breath and bring your attention back whenever it wanders.",
+          "Other techniques include mindful walking, eating, and meditation. The key is to stay present and aware of your thoughts, feelings, and surroundings."
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,5 @@
+nltk==3.7
+numpy==1.22.3
+keras==2.10.0
+json
+pickle
