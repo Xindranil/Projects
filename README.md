@@ -15,7 +15,11 @@ I'm always excited to explore new opportunities and connect with like-minded ind
 
 </div>
 
+<div align="center">
+
 **[Personal Website](https://xindranil.com)** | **[LinkedIn](https://linkedin.com/in/xindranil)** | **[Instagram](https://instagram.com/xindranil)**
+
+</div>
 
 ---
 
