@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Civix
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ speed_increase()
+comment3.params=
+comment3.target=void\ speed_decrease()
+comment4.params=
+comment4.target=void\ set_location()
+numComments=5
