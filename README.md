@@ -12,8 +12,11 @@ I'm always excited to explore new opportunities and connect with like-minded ind
 
 ---
 
-## 🛠️ Projects 🛠️
+<div align="center">
 
+## 🚀 Projects
+
+</div>
 ### 🛠️ Self-Development Chatbot
 - **Description**: Simple Chatbot that you can use for self-development.
 - **Technologies Used**: Python, NLTK, Keras, TensorFlow, NumPy, JSON, Pickle, Tkinter, Random
