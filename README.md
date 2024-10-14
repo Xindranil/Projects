@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-Hi! I'm an **entrepreneur** who believes that technology can solve some of the world's most pressing problems. I collaborate with tech experts to execute my ideas and bring visions to life. My passions are in **Space Exploration**, but my skillset spans across **entrepreneurship**, **business development**, **strategy**, **management**, **operations**, **problem solving**, and **design thinking**.
+Hi! I'm an **entrepreneur** who believes that technology can solve some of the world's most pressing problems. I collaborate with tech experts to execute my ideas and bring visions to life. My passions are in **Space Exploration**, but my skillset spans across **entrepreneurship**, **business development**, **strategy**, **management**, **operations**, **problem solving**, and **design thinking**. I also do AI assisted coding to create practical solutions.
 
 I'm always excited to explore new opportunities and connect with like-minded individuals. Let's create something impactful together!
 
@@ -35,7 +35,7 @@ I'm always excited to explore new opportunities and connect with like-minded ind
 
 ### 🛠️ GraphRag Chatbot : AI Career Assistant
 - **Description**: GraphRag Chatbot to help you with questions on Data and AI career
-- **Technologies Used**: Typescript , CSS , Neo4j AuraDB , GroqCloud
+- **Technologies Used**: Typescript , Javascript, CSS , html , Neo4j AuraDB , GroqCloud
 - **Link**: [GraphRag Chatbot : AI Career Assistant (Repo)](https://github.com/Xindranil/graphrag-career-assistant) |  [Live Demo](https://gorgeous-stardust-ce8704.netlify.app/)
 
 ### 🛠️ Self-Development Chatbot
