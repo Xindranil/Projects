@@ -36,7 +36,7 @@ I'm always excited to explore new opportunities and connect with like-minded ind
 ### 🛠️ GraphRag Chatbot : AI Career Assistant
 - **Description**: GraphRag Chatbot to help you with questions on Data and AI career
 - **Technologies Used**: Typescript , CSS , Neo4j AuraDB , GroqCloud
-- **Link**: [Self-Development Chatbot (Repo)](https://github.com/Xindranil/graphrag-career-assistant) |  [Live Demo](https://gorgeous-stardust-ce8704.netlify.app/)
+- **Link**: [GraphRag Chatbot : AI Career Assistant (Repo)](https://github.com/Xindranil/graphrag-career-assistant) |  [Live Demo](https://gorgeous-stardust-ce8704.netlify.app/)
 
 ### 🛠️ Self-Development Chatbot
 - **Description**: Simple Chatbot that you can use for self-development.
